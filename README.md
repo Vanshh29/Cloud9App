@@ -43,12 +43,15 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ScreenShots of figma designs
 
 HomePage
+
 ![Screenshot 2023-02-14 at 12 20 07](https://user-images.githubusercontent.com/98050930/218723815-769c9ba8-9c72-4128-ba18-c7f3aa1b948f.png)
 
 Cameras
+
 ![Screenshot 2023-02-14 at 12 20 42](https://user-images.githubusercontent.com/98050930/218723944-4e9afe2c-7cc0-4a7e-a9df-aa75ad8b6bbe.png)
 
 Accessories
+
 ![Screenshot 2023-02-14 at 12 21 09](https://user-images.githubusercontent.com/98050930/218724158-aedeb6bc-67df-4fd4-b1f5-548f48bc7fa5.png)
 ![Screenshot 2023-02-14 at 12 21 20](https://user-images.githubusercontent.com/98050930/218724167-29ae9400-799b-4619-bc78-14ddc2c27945.png)
 ![Screenshot 2023-02-14 at 12 21 37](https://user-images.githubusercontent.com/98050930/218724175-a1e3f494-01c8-4115-a7f7-932eabbbc45f.png)
@@ -60,13 +63,16 @@ Accessories
 ![Screenshot 2023-02-14 at 12 23 13](https://user-images.githubusercontent.com/98050930/218724196-d43fa768-d3eb-4488-ab7c-8563c08a3961.png)
 
 Softwares
+
 ![Screenshot 2023-02-14 at 12 20 24](https://user-images.githubusercontent.com/98050930/218724539-c4249c89-410c-452e-b751-05e4fd16639b.png)
 
 
 Forum
+
 ![Screenshot 2023-02-14 at 12 20 54](https://user-images.githubusercontent.com/98050930/218724387-0881cfe9-dd36-44e2-b831-9230a6b1bbed.png)
 
 About Us
+
 ![Screenshot 2023-02-14 at 12 22 39](https://user-images.githubusercontent.com/98050930/218724284-2d8ae181-88e5-4dd6-a5ed-5a553fffbacb.png)
 
 
